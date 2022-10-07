@@ -1,2 +1,3 @@
 # mysql-queries
-sql queries files
+sql queries files /
+corrections sql queries files
